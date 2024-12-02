@@ -3,8 +3,8 @@ title: Ruby組み込み変数一覧
 tags:
   - Ruby
 private: false
-updated_at: '2021-08-17T03:00:56+09:00'
-id: b70fefaa707e51b4a59a
+updated_at: '2024-12-03T03:10:01+09:00'
+id: 2af62fa4e8227d05d95d
 organization_url_name: null
 slide: false
 ignorePublish: false
@@ -83,4 +83,5 @@ ignorePublish: false
 | LC_ALL,LC_CTYPE,LANG | デフォルトのエンコーディングの決定に使用されるロケール情報 |
 
 ### 付け足し
+
 多分、どっかのサイトからとってきてmarkdownにしたんだろうけど不明。

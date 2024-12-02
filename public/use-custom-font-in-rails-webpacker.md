@@ -3,8 +3,8 @@ title: RailsでCustom Fontを使う(Webpacker)
 tags:
   - Rails
 private: false
-updated_at: '2021-08-25T21:43:13+09:00'
-id: 12a5f228c8d09b761e15
+updated_at: '2024-12-03T03:13:21+09:00'
+id: 572690601880ca2d4076
 organization_url_name: null
 slide: false
 ignorePublish: false

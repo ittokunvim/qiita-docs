@@ -4,8 +4,8 @@ tags:
   - ShellScript
   - termi
 private: false
-updated_at: '2021-05-25T22:50:13+09:00'
-id: d6391f69d39e6778b982
+updated_at: '2024-12-03T03:22:20+09:00'
+id: 8d0d57a7a00357149635
 organization_url_name: null
 slide: false
 ignorePublish: false

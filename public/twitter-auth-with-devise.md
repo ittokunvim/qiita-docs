@@ -3,8 +3,8 @@ title: deviseを使ったtwitter認証でコケた話
 tags:
   - Rails
 private: false
-updated_at: '2021-07-17T14:53:54+09:00'
-id: cf0989e1ae4e45bac5fe
+updated_at: '2024-12-03T03:17:50+09:00'
+id: 0496302ee13cd4df29c0
 organization_url_name: null
 slide: false
 ignorePublish: false
