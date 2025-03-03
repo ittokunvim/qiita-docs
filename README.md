@@ -2,6 +2,10 @@
 
 ここではQiitaに投稿する記事がまとめられています
 
+## 記事の追加
+
+記事を追加する際は[qiita-cli](https://github.com/increments/qiita-cli)を使用します。
+
 ## 目次
 
 1. [カレントディレクトリ下のヒストリーファイルを消去する](public/delete-history-files.md)
