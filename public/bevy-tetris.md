@@ -5,7 +5,7 @@ tags:
   - Rust
   - Bevy
 private: false
-updated_at: '2025-04-12T19:55:26+09:00'
+updated_at: '2025-04-12T20:07:03+09:00'
 id: bfa3396880424ff4a380
 organization_url_name: null
 slide: false
